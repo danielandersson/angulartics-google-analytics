@@ -1,6 +1,6 @@
 {
   "name": "angulartics-google-analytics",
-  "version": "0.4.2",
+  "version": "0.5.0",
   "description": "Google Analytics plugin for Angulartics",
   "keywords": [
     "google",
@@ -28,7 +28,8 @@
     "Hannah Fouasnon <hanelifou@gmail.com> (https://github.com/fouasnon)",
     "Alex Logvynovskiy <alex@busuu.com> (https://github.com/dr-axly)",
     "Fil Maj <maj.fil@gmail.com> (https://github.com/filmaj)",
-    "Dan Wilkerson <notdanwilkerson@gmail.com> (https://github.com/danwilkerson)"
+    "Dan Wilkerson <notdanwilkerson@gmail.com> (https://github.com/danwilkerson)",
+    "Daniel Andersson <d.andersson92@gmail.com> (https://github.com/danielandersson)"
   ],
   "main": "lib/index.js",
   "scripts": {
